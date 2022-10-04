@@ -1,6 +1,6 @@
 # Rick&Morty API
 
-[Demo] (https://korolmariia.github.io/Rick-Morty-API/)
+[Demo](https://korolmariia.github.io/Rick-Morty-API/)
 
 I used:
 
